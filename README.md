@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a second-year Master of Science student in Artificial Intelligence at the University of Tehran. My research interests lie in the fields of Computer Vision, with a particular focus on Representation learning and Robustness. 
+I am currently a third-year Master of Science student in Artificial Intelligence at the University of Tehran. My research interests lie in the fields of Computer Vision, with a particular focus on Representation learning and Robustness. 
 
 Seeking for collaboration in such fields, feel free to reach out to me via <a href="mailto:farshads7778@gmail.com?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
 
@@ -13,3 +13,5 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <a href="https://youtube.com/@farshadsangari" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@farshadsangari" height="30" width="40" /></a>
 </p>
+<br><br>
+<img src="img.png" width="850">
