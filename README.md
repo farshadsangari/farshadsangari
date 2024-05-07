@@ -13,5 +13,4 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <a href="https://youtube.com/@farshadsangari" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@farshadsangari" height="30" width="40" /></a>
 </p>
-<br><br>
-<img src="img.png" width="850">
+<br><be>
