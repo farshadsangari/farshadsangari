@@ -1,8 +1,20 @@
-### Hi there 👋
+# 👋 Welcome!
 
-Passionate AI enthusiast with an MSc in Artificial Intelligence from Tehran University, currently working as a Computer Vision Engineer. I specialize in developing cutting-edge vision models and have a strong interest in research on vision-language models and explainability. I thrive on solving complex problems and aim to make AI models more interpretable and impactful.
+I’m a **Computer Vision Researcher** and **AI Engineer** specializing in **Multimodal Learning** and **Trustworthy AI**.  
+I hold an **MSc from the University of Tehran**, where my research focused on **Interpretable Representation Learning with Generative Models**.  
 
-Seeking for collaboration in such fields, feel free to reach out to me via <a href="mailto:farshads7778@gmail.com?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
+## 🔬 Interests:
+- **Multimodal AI** (Vision & Text)  
+- **Generative Models**  
+- **Trustworthy AI**  
+
+## 🏆 Experience:
+- **AI Engineer at ModAI** 🚀  
+- **Researcher at University of Tehran** 🎓 (*Generative & Trustworthy AI*)  
+- **Head TA for AI Courses** (*Deep Learning, Trustworthy AI, Generative Models*)  
+
+### 🤝 Seeking Collaborations  
+I’m open to collaborations in these fields. Feel free to reach out to me via <a href="mailto:farshads7778@gmail.com?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>!  
 
 
 <p align="left">
