@@ -9,8 +9,8 @@ I hold an **MSc from the University of Tehran**, where my research focused on **
 - **Trustworthy AI**  
 
 ## 🏆 Experience:
-- **AI Engineer at ModAI** 🚀  
-- **Researcher at University of Tehran** 🎓 (*Generative & Trustworthy AI*)  
+- **AI Engineer at <a href="https://modai.fashion/">ModAI</a>** 🚀  
+- **Researcher at <a href="https://ut.ac.ir/en">University of Tehran</a>** 🎓 (*Generative & Trustworthy AI*)  
 - **Head TA for AI Courses** (*Deep Learning, Trustworthy AI, Generative Models*)  
 
 ### 🤝 Seeking Collaborations  
